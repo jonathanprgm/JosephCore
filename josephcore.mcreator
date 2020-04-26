@@ -311,6 +311,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Brownie",
+      "type": "food",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [
@@ -345,6 +353,7 @@
       "block.josephcore.emeraldstone": "Emeraldstone",
       "advancements.firstemeraldium.title": "First Emeraldium",
       "block.josephcore.ultimateflower": "Green Flower",
+      "item.josephcore.brownie": "Brownie",
       "item.josephcore.emeraldbody": "Emerald Body",
       "item.josephcore.emeraldlegs": "Emerald Leggings",
       "block.josephcore.testblock": "Test Block",
